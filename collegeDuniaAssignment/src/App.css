@@ -1,0 +1,15 @@
+@font-face {
+  font-family: DINPro;
+  src: url(./assets/dinpro.ttf);
+}
+#app {
+  margin: 24px;
+  color: #444444;
+}
+
+#title {
+  font-family: DINPro;
+  font-size: 18.5px;
+  font-weight: 500;
+  line-height: 0.97;
+}

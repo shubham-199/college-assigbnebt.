@@ -1,0 +1,14 @@
+#collegelist {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  margin: 10px 0px;
+}
+
+.loading {
+  height: 100px;
+}
+
+.hide {
+  display: none;
+}
